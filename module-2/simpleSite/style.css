@@ -1,0 +1,28 @@
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li{
+    margin-right: 15px ;
+}
+.menu li a{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.colm img {
+    height: 250px;
+    width: 420px;
+}

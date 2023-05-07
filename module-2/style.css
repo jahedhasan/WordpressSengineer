@@ -1,0 +1,10 @@
+.module-title{
+    border: 1px solid greenyellow;
+    height: auto;
+    text-align: center;
+    background-color: red;
+}
+
+.para{
+    font-family: 'Playfair Display', serif;
+}
