@@ -95,3 +95,5 @@ $filtered_array = array_unique($a);
 var_dump($filtered_array);
 echo '</br>';
 echo count($a);
+echo '<br/>';
+echo "Today is " . date("Y/m/d") . "<br>";
